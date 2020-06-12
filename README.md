@@ -5,7 +5,7 @@ This repo was created to finish the assignment for week 4 of Getting and Cleanin
 * Second, download the R source code into your R working directory.
 * Finally, execute R source code to generate tidy data file.
 
-### Data description
+###  Main Data description
 The variables in the data X are sensor signals measured with waist-mounted smartphone from 30 subjects. The variable in the data Y indicates activity type the subjects performed during recording.
 
 ### Code explaination
@@ -28,4 +28,4 @@ Convert activity labels to characters and add a new column as factor
 4. Appropriately labels the data set with descriptive variable names.
 Give the selected descriptive names to variable columns
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-Use pipeline command to create a new tidy dataset with command group_by and summarize_each in dplyr package
+
