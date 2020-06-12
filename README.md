@@ -6,7 +6,9 @@ This repo was created to finish the assignment for week 4 of Getting and Cleanin
 * Finally, execute R source code to generate tidy data file.
 
 ###  Main Data description
-The variables in the data X are sensor signals measured with waist-mounted smartphone from 30 subjects. The variable in the data Y indicates activity type the subjects performed during recording.
+The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
+
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ### Code explaination
 The code combined training dataset and test dataset,  and extracted partial variables to create another dataset with the averages of each variable for each activity.
